@@ -1,0 +1,16 @@
+{
+  "name": "realm-of-legends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Tyler Selden",
+  "license": "MIT",
+  "dependencies": {
+    "circular-json": "^0.5.9",
+    "crypto": "^1.0.1",
+    "websocket": "^1.0.34"
+  }
+}
